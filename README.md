@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is larn
 I like Starcraft and am good at it. Call me if you want to join me.
 
-- 🔭 I’m currently working on Backend Engineer 
+- 🔭 I am currently working as a backend engineer. 
 - 📫 How to reach me: drrg9211@naver.com 
 
 

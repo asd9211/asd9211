@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi~%20There%20I`m%20larn&fontSize=45)
 ### Hi there 👋, my name is larn
 I like Starcraft and am good at it. Call me if you want to join me.
+![image](https://user-images.githubusercontent.com/47582622/154676342-489b85f1-3473-4b8e-883c-baa6ae60428a.png)
 
 <div align=center>
   <div align=center> <h3>:sparkles:Tech Stack</h3> </div>

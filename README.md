@@ -11,7 +11,7 @@ I like Starcraft and am good at it. Call me if you want to join me.
 
 
 - 🔭 I am currently working as a backend engineer. 
-- 📫 How to reach me: drrg9211@naver.com 
+- 📫 How to reach me: drrg@naver.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asd9211)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://foot-develop.tistory.com/)  

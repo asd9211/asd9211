@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi~%20There%20I`m%20larn&fontSize=45)
 ### Hi there 👋, my name is larn
-I like Starcraft and am good at it. Call me if you want to join me.
-![image](https://user-images.githubusercontent.com/47582622/154676342-489b85f1-3473-4b8e-883c-baa6ae60428a.png)
 
 <div align=center>
   <div align=center> <h3>:sparkles:Tech Stack</h3> </div>
@@ -11,7 +9,6 @@ I like Starcraft and am good at it. Call me if you want to join me.
 
 
 - 🔭 I am currently working as a backend engineer. 
-- 📫 How to reach me: drrg@naver.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asd9211)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://foot-develop.tistory.com/)  
